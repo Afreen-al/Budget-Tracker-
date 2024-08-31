@@ -1,0 +1,13 @@
+asgiref
+Django
+numpy
+packaging
+pandas
+plotly
+python-dateutil
+pytz
+six
+sqlparse
+tenacity
+tzdata
+python-dotenv
